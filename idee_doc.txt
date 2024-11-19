@@ -1,0 +1,7 @@
+    User authentication (signup/login).
+    Input exercise data (exercise name(includes some basic exercise library), weight, reps, RPE).
+    Calculate estimated 1RM.
+    Save data for future reference.
+    Graph the estimated 1RM over time.
+
+Focus on basic functionality before adding extras like styling or advanced analytics.
